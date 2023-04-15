@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cheese540/strawberry/main/strawberrypublic.lua"))()
